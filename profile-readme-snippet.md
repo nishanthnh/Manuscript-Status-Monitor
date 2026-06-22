@@ -7,7 +7,7 @@ You can paste this into your GitHub profile README.
 
 ### Manuscript Status Monitor
 
-I built a small Google Apps Script automation that checks a public manuscript tracking page on a schedule and emails me only when the manuscript status or review details change.
+I built a small Google Apps Script automation that checks the status of a manuscript submitted to a journal using its tracking URL, then emails me only when the manuscript status or review details change.
 
 What I practiced:
 
