@@ -1,0 +1,7 @@
+.clasp.json
+.clasprc.json
+.env
+*.local
+secrets.json
+private-notes.md
+screenshots/private/
