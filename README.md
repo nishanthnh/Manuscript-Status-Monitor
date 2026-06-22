@@ -1,8 +1,8 @@
 # Manuscript Status Monitor
 
-A small Google Apps Script automation that checks a public manuscript tracking page on a schedule and emails you only when the status or review details change.
+A small Google Apps Script automation that checks the status of a manuscript submitted to a journal using its tracking URL, then emails you only when the status or review details change.
 
-This project was built as a lightweight research productivity tool: no server, no paid API, and no local computer running in the background.
+This project was built as a lightweight research productivity tool for journal submissions that provide a simple URL to track manuscript progress: no server, no paid API, and no local computer running in the background.
 
 ## Features
 
